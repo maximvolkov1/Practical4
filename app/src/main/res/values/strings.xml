@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practical 4</string>
+    <string name="raccoon_image">Raccoon image</string>
+    <string name="yourName">Your name</string>
+    <string name="Name">Name</string>
+    <string name="Имя">Имя</string>
+</resources>
